@@ -1,0 +1,2 @@
+INSERT INTO tb_client (name, cpf, income, children) VALUES ('Livros', '092.738.626-75', 200.00, '10');
+INSERT INTO tb_client (name, cpf, income, children) VALUES ('hotel', '092.738.626-75', 100.00, '18');
